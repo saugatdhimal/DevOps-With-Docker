@@ -1,0 +1,4 @@
+1. Created a New Web Service in render.com
+2. Deployed a existing image from a registry (dockerhub) 
+
+(https://hub.docker.com/r/saugatdhimal/agency-website)
